@@ -1,5 +1,3 @@
-<div align="center">
-
 ## 🙋‍♂️ About Me
 
 ### 💼 Software Engineer (Backend)
@@ -7,7 +5,9 @@
 ---
 
 ## 🛠 Tech Stack
+
 ### Backend & Language
+
 <p>
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />
@@ -16,11 +16,13 @@
 </p>
 
 ### Database
+
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
 
 ### Server & Infra
+
 <p>
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
@@ -30,6 +32,7 @@
 </p>
 
 ### Cloud
+
 <p>
     <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
@@ -37,6 +40,7 @@
 ---
 
 ## 📫 Connect
+
   <a href="mailto:haneshiofficial@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" 
@@ -49,4 +53,3 @@
       alt="Naver Badge"
     />
   </a>
-</div>
