@@ -1,20 +1,36 @@
+<div align="center">
+
 ## 🙋‍♂️ About Me
 
-- 🎓 한림연예예술고등학교 실용무용과 6기
-- 💼 Software Engineer (Backend)
+### 💼 Software Engineer (Backend)
+
 ---
 
 ## 🛠 Tech Stack
+### Backend & Language
 <p>
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/REST API-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Database
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
+</p>
+
+### Server & Infra
+<p>
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/REST API-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white" />
+</p>
+
+### Cloud
+<p>
     <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
@@ -36,3 +52,4 @@
     />
   </a>
 </p>
+</div>
