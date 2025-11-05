@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/I%20use%20Vim%20btw-019733.svg?&style=for-the-badge&logo=Vim&logoColor=white" />
 </p>
 
 ### 🌐 Cloud
