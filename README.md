@@ -1,12 +1,10 @@
-## 🙋‍♂️ About Me
-
-### 💼 Software Engineer (Backend)
+## 💼 Software Engineer (Backend)
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Backend & Language
+### 🐘 Backend & Language
 
 <p>
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white" />
@@ -15,13 +13,13 @@
     <img src="https://img.shields.io/badge/REST API-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### Database
+### 💾 Database
 
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
 
-### Server & Infra
+### 🖥️ Server & Infra
 
 <p>
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black" />
@@ -31,7 +29,7 @@
     <img src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white" />
 </p>
 
-### Cloud
+### 🌐 Cloud
 
 <p>
     <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
