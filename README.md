@@ -1,5 +1,7 @@
 ## 💼 Software Engineer (Backend)
 
+Concrete jungle where dreams are made of, I wish I could go there.🌇
+
 ---
 
 # 🛠 Tech Stack
