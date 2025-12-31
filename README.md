@@ -1,15 +1,8 @@
 ## 💼 Software Engineer (Backend)
-
-Concrete jungle where dreams are made of, I wish I could go there.🌇
-
 ---
-
 # 🛠 Tech Stack
-
 ![Languages and Tools](https://skillicons.dev/icons?i=php,laravel,javascript,linux,ubuntu,nginx,vim,mysql,html,css,aws)
-
 ---
-
 ## 📫 Connect
 
   <a href="mailto:haneshiofficial@gmail.com">
