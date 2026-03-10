@@ -1,4 +1,4 @@
-## 💼 Software Engineer (Backend)
+## 💼 Software Engineer (Fullstack)
 # 🛠 Tech Stack
 ![Languages and Tools](https://skillicons.dev/icons?i=php,laravel,javascript,linux,ubuntu,nginx,vim,mysql,html,css,aws)
 ---
