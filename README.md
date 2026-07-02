@@ -8,8 +8,6 @@
 
 <img src="https://skillicons.dev/icons?i=php,laravel,javascript,linux,ubuntu,nginx,vim,mysql,html,css,aws" />
 
-<br/><br/>
-
 ## 📫 Connect
 
 <a href="mailto:haneshiofficial@gmail.com">
@@ -18,8 +16,6 @@
 <a href="mailto:wackymob98@naver.com">
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" alt="Naver Badge"/>
 </a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:34d399&height=100&section=footer" width="100%"/>
 
